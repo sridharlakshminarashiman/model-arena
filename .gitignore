@@ -1,0 +1,22 @@
+#Secrets - never commit these
+
+#Environment Variables
+.env
+.env.*
+**/.env
+**/.env.*
+
+#Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+#Node
+node_modules/
+.next/
+
+#Editor
+.vscode/
+.cursor/
+*.swp
